@@ -6,4 +6,4 @@ Supported OSes:
 - SysShivt tools 4 Tech Demo
 - Shivtanium 0.x, Beta 1.x
 - Cursor Changer
-- Other BEFI OSes
+- Other BEFI compatible OSes
